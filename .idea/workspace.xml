@@ -2,17 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361036fc-c974-4eab-a602-6f37d93821c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/AudiSiparisBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/FordSiparisBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/Marka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/SiparisBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderPattern/SiparisManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/BirdAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/PlasticToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Assemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/BridgePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Produce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Workshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/AbstractRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/ITV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/LogitechRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/SamsungTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgetv/SonyTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TurnOffTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TurnOnTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Ram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/ShapeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Abone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Gazete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Hurriyet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Object-Oriented-Design/SmokeFactory/Sigara.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Object-Oriented-Design/SmokeFactory/Sigara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/SigaraFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmokeFactory/SigaraFabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-Oriented-Design/BuilderPattern/FordSiparisBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Object-Oriented-Design/BuilderPattern/FordSiparisBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/Biber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/Biber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/ConcreteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/ConcreteFactory2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/DolmaBiber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/DolmaBiber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/Elma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/Elma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/KirmiziElma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/KirmiziElma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/YesilBiber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/YesilBiber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/YesilElma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractfactory/YesilElma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Araba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/AudiSiparisBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/AudiSiparisBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/FordSiparisBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/FordSiparisBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/Marka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Marka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/SiparisBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/SiparisBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/SiparisManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/SiparisManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Araba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/ArabaFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/ArabaFabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Bmw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/R8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/R8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Z4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Z4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/BritishAmericanFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/BritishAmericanFabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/Camel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/Camel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/Parliement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/Parliement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/PhilipMorrisFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/PhilipMorrisFabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/Sigara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/Sigara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmokeFactory/SigaraFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorysmoke/SigaraFabrika.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,126 +99,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Araba.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Marka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Model.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SiparisBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/AudiSiparisBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/FordSiparisBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SiparisManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -160,54 +115,73 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SingletonPattern/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/SingletonPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Araba.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Bmw.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Z4.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/A4.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/R8.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Audi.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/ArabaFabrika.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/Elma.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/Biber.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/KirmiziElma.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/DolmaBiber.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory2.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/YesilBiber.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/YesilElma.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/PhilipMorrisFabrika.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/BritishAmericanFabrika.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/Parliement.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/Camel.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/Sigara.java" />
-        <option value="$PROJECT_DIR$/src/SmokeFactory/SigaraFabrika.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/Marka.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/Model.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/SiparisBuilder.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/Araba.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/SiparisManager.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/AudiSiparisBuilder.java" />
         <option value="$PROJECT_DIR$/src/BuilderPattern/FordSiparisBuilder.java" />
+        <option value="$PROJECT_DIR$/src/facade/weqw.java" />
+        <option value="$PROJECT_DIR$/src/facade/Shape.java" />
+        <option value="$PROJECT_DIR$/src/facade/Square.java" />
+        <option value="$PROJECT_DIR$/src/facade/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/facade/Circle.java" />
+        <option value="$PROJECT_DIR$/src/facade/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/facade/Client.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/Bird.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/Sparrow.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/PlasticToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/BirdAdapter.java" />
+        <option value="$PROJECT_DIR$/src/adapterpattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Car.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Bike.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Produce.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Assemble.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/BridgePattern.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Shape.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Circle.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/decorator/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Client.java" />
+        <option value="$PROJECT_DIR$/src/decorator/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/ITV.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/SamsungTV.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/SonyTV.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/AbstractRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/LogitechRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/bridgetv/Client.java" />
+        <option value="$PROJECT_DIR$/src/bridgepattern/Workshop.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/Komut.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/Command.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/TurnOnTV.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/TV.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/commandpattern/TurnOffTV.java" />
+        <option value="$PROJECT_DIR$/src/composite/Part.java" />
+        <option value="$PROJECT_DIR$/src/composite/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/composite/Ram.java" />
+        <option value="$PROJECT_DIR$/src/composite/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/composite/Computer.java" />
+        <option value="$PROJECT_DIR$/src/observer/Gazete.java" />
+        <option value="$PROJECT_DIR$/src/observer/Hurriyet.java" />
+        <option value="$PROJECT_DIR$/src/observer/Abone.java" />
+        <option value="$PROJECT_DIR$/src/observer/Musteri.java" />
+        <option value="$PROJECT_DIR$/src/observer/Test.java" />
+        <option value="$PROJECT_DIR$/src/command/Client.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,17 +195,10 @@
               <item name="Object-Oriented-Design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Object-Oriented-Design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Object-Oriented-Design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BuilderPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +211,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="observer" />
+      <recent name="commandpattern" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,13 +231,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuilderPattern.Client" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BridgePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridge.BridgePattern" />
       <module name="Object-Oriented-Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BuilderPattern.*" />
+          <option name="PATTERN" value="bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.Client" />
+      <module name="Object-Oriented-Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +259,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmokeFactory.Client" />
+      <option name="MAIN_CLASS_NAME" value="bridgetv.Client" />
       <module name="Object-Oriented-Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SmokeFactory.*" />
+          <option name="PATTERN" value="bridgetv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,25 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryPattern.Test" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="command.Client" />
       <module name="Object-Oriented-Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractFactoryPattern.Test" />
-      <module name="Object-Oriented-Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractFactoryPattern.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +285,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonPattern.Test" />
+      <option name="MAIN_CLASS_NAME" value="observer.Test" />
       <module name="Object-Oriented-Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingletonPattern.*" />
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.BridgePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -349,18 +323,31 @@
       <workItem from="1571687784824" duration="4697000" />
       <workItem from="1571853187210" duration="291000" />
       <workItem from="1571865835801" duration="305000" />
-      <workItem from="1571904093026" duration="3812000" />
+      <workItem from="1571904093026" duration="4232000" />
+      <workItem from="1573148853948" duration="934000" />
+      <workItem from="1573162540535" duration="2010000" />
+      <workItem from="1573196430726" duration="1450000" />
+      <workItem from="1573422350597" duration="202000" />
+      <workItem from="1575929998082" duration="145000" />
+      <workItem from="1575930412158" duration="958000" />
+      <workItem from="1576110924556" duration="465000" />
+      <workItem from="1576187093217" duration="1832000" />
+      <workItem from="1576272916571" duration="983000" />
+      <workItem from="1576321812754" duration="70000" />
+      <workItem from="1576796912263" duration="661000" />
+      <workItem from="1576965246700" duration="499000" />
+      <workItem from="1577032183684" duration="6044000" />
+      <workItem from="1577105748827" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10513000" />
+    <option name="totallyTimeSpent" value="30985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50240964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +364,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4626506" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43253013" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -391,7 +378,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32254195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,7 +387,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39156628" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +395,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4626506" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43253013" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -426,368 +413,482 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Object-Oriented-Design.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingletonPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingletonPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Z4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Bmw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/A4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/R8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/factorysmoke/Camel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Biber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/KirmiziElma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/YesilBiber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/YesilElma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/DolmaBiber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Elma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/ConcreteFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Araba.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/ArabaFabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Audi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/Sigara.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/Parliement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/PhilipMorrisFabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/BritishAmericanFabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/factorysmoke/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/Camel.java">
+    <entry file="file://$PROJECT_DIR$/src/facade/weqw.java" />
+    <entry file="file://$PROJECT_DIR$/src/builder/Araba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SmokeFactory/SigaraFabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SiparisManager.java">
+    <entry file="file://$PROJECT_DIR$/src/facade/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/facade/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facade/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facade/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facade/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facade/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/Sparrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/ToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/PlasticToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Produce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Assemble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/ITV.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Marka.java">
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/SonyTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Araba.java">
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/SamsungTV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-end-line="9" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SiparisBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/bridge/Workshop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/BridgePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/TurnOnTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/TurnOffTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Command.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/AudiSiparisBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/command/TV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="165">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/LogitechRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridgetv/AbstractRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/FordSiparisBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/composite/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#177#183#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/Ram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/Part.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/BirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Musteri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Abone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Hurriyet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#146#153#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Gazete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
